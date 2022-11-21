@@ -1,7 +1,7 @@
 papers:
   - title: "Confidence-aware Training of Smoothed Classifiers for Certified Robustness"
     image: "/assets/publications/2022_CAT-RS/image.png"
-    authors: "<a href=https://sites.google.com/view/jongheonj>Jongheon Jeong*</a>, <b>Seojin Kim*</b>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
+    authors: "<a href=https://jh-jeong.github.io>Jongheon Jeong*</a>, <b>Seojin Kim*</b>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
     venue: "AAAI Conference on Atrificial Intelligence (AAAI) 2023"
     #paper_pdf: "https://subin-kim-cv.github.io/assets/publications/2022_NVP/kim2022scalable.pdf"
     #project_page: "https://subin-kim-cv.github.io/NVP"
