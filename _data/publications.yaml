@@ -1,4 +1,10 @@
 papers:
+  - title: "Fragment-based Multi-view Molecular Contrastive Learning"
+    image: "assets/publications/2023_FragCL/image.png"
+    authors: "<b>Seojin Kim*</b>, <a href=https://jaehyun513.github.io>Jaehyun Nam*</a>, <a href=https://junsu-kim97.github.io>Junsu Kim</a>, <a href=https://hankook.github.io>Hankook Lee</a>, <a href=https://sites.google.com/view/sungsooahn0215/home>Sungsoo Ahn</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
+    venue: "ICLR Workshop on Machine Leraning for Materials (ICLRW-ML4Materials), 2023"
+    selected: y
+  
   - title: "Confidence-aware Training of Smoothed Classifiers for Certified Robustness"
     image: "/assets/publications/2022_CAT-RS/image.png"
     authors: "<a href=https://jh-jeong.github.io>Jongheon Jeong*</a>, <b>Seojin Kim*</b>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
@@ -9,8 +15,4 @@ papers:
     # poster: "/assets/publications/2021_leveraging_order-free/SOG_poster.pdf"
     selected: y
     
-  - title: "Fragment-based Multi-view Molecular Contrastive Learning"
-    image: "assets/publications/2023_FragCL/image.png"
-    authors: "<b>Seojin Kim*</b>, <a href=https://jaehyun513.github.io>Jaehyun Nam*</a>, <a href=https://junsu-kim97.github.io>Junsu Kim</a>, <a href=https://hankook.github.io>Hankook Lee</a>, <a href=https://sites.google.com/view/sungsooahn0215/home>Sungsoo Ahn</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
-    venue: "ICLR Workshop on Machine Leraning for Materials (ICLRW-ML4Materials), 2023"
-    selected: y
+  
