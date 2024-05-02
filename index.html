@@ -64,8 +64,10 @@ layout: default
               <p>{{ paper.authors }}</p>
               {% if paper.venue1 %}
               <p><i>{{ paper.venue1 }}</i></p>
+              {% endif %}
               {% if paper.venue2 %}
               <p><i>{{ paper.venue2 }}</i></p>
+              {% endif %}
               <div class="paper-buttons">
                 {% if paper.paper_pdf %}
                   <a class="button" href="{{ paper.paper_pdf }}" target="_blank">Paper</a>
