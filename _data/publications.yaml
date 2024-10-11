@@ -6,10 +6,11 @@ papers:
 #     selected: y
 
   - title: "An Efficient Tokenization for Molecular Language Models"
-      image: "assets/publications/2024_CAMT5/image.png"
-      authors: "<b>Seojin Kim</b>, <a href=https://jaehyun513.github.io>Jaehyun Nam</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
-      venue1: "NeurIPS Workshop on AI for New Drug Modalities (NeurIPSW-AIDrugX), 2024"
-      selected: y
+    image: "assets/publications/2024_CAMT5/image.png"
+    authors: "<b>Seojin Kim</b>, <a href=https://jaehyun513.github.io>Jaehyun Nam</a>, <a href='https://sihyun.me'>Sihyun Yu</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Younghoon Shin</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
+    venue1: "NeurIPS Workshop on AI for New Drug Modalities (NeurIPSW-AIDrugX), 2024"
+    venue2: "NeurIPS Workshop on New Frontiers of AI for Drug Discovery and Development (NeurIPSW-AI4D3), 2023"
+    selected: y
 
   - title: "Data-Efficient Molecular Generation with Hierarchical Textual Inversion"
     image: "assets/publications/2023_HI-Mol/image.png"
