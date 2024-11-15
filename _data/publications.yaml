@@ -7,7 +7,7 @@ papers:
 
   - title: "Confidence-aware Denoised Fine-tuning of Off-the-shelf Models for Certified Robustness"
     # image: "assets/publications/2024_CAMT5/image.png"
-    authors: "<a href=https://alinlab.kaist.ac.kr/shin.html>Suhyeok Jang*</a>, <b>Seojin Kim*</b>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>, <a href=https://jh-jeong.github.io>Jongheon Jeong</a>"
+    authors: "<a href=https://alinlab.kaist.ac.kr/shin.html>Suhyeok Jang*</a>, <u><b>Seojin Kim*</b></u>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>, <a href=https://jh-jeong.github.io>Jongheon Jeong</a>"
     venue1: "Transactions on Machine Learning Research (TMLR), 2024"
     selected: y
   - title: "An Efficient Tokenization for Molecular Language Models"
