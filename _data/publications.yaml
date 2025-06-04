@@ -4,7 +4,16 @@ papers:
 #     authors: "<b>Seojin Kim</b>, <a href=https://jaehyun513.github.io>Jaehyun Nam</a>, <a href='https://sihyun.me'>Sihyun Yu</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Younghoon Shin</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
 #     venue: "NeurIPS Workshop on New Frontiers of AI for Drug Discovery and Development (NeurIPSW-AI4D3), 2023"
 #     selected: y
-
+  - title: "Mamba Drafters for Speculative Decoding"
+    # image: "/assets/publications/2022_CAT-RS/image.png"
+    authors: "<a href=https://choidae1.github.io>Daewon Choi</a>, <a href=https://seunghyukoh.com>Seunghyuk Oh</a>, Saket Dingliwal, <a href=https://jihoontack.github.io>Jihoon Tack</a>, <a href=https://https://kykim0.github.io>Kyuyoung Kim</a>, <a href=https://https://kykim0.github.io>Kyuyoung Kim</a>, <a href=https://woominsong.github.io>Woomin Song</a> <b><u>Seojin Kim</u></b>, Insoo Han, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>, Aram Galstyan, Shubham Katiyar, Sravan Babu Bodapati"
+    venue1: "arXiv, 2025"
+    # venue2: "ECCV Workshop on Adversarial Robustness in the Real World (ECCVW-AROW), 2022"
+    #paper_pdf: "https://subin-kim-cv.github.io/assets/publications/2022_NVP/kim2022scalable.pdf"
+    #project_page: "https://subin-kim-cv.github.io/NVP"
+    #code: "https://github.com/subin-kim-cv/NVP"
+    # poster: "/assets/publications/2021_leveraging_order-free/SOG_poster.pdf"
+    selected: y  
   - title: "Confidence-aware Denoised Fine-tuning of Off-the-shelf Models for Certified Robustness"
     # image: "assets/publications/2024_CAMT5/image.png"
     authors: "<a href=https://alinlab.kaist.ac.kr/shin.html>Suhyeok Jang*</a>, <b><u>Seojin Kim</u>*</b>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>, <a href=https://jh-jeong.github.io>Jongheon Jeong</a>"
@@ -37,5 +46,5 @@ papers:
     #code: "https://github.com/subin-kim-cv/NVP"
     # poster: "/assets/publications/2021_leveraging_order-free/SOG_poster.pdf"
     selected: y
-    
+  
   
