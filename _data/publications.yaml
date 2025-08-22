@@ -9,6 +9,7 @@ papers:
     # image: "/assets/publications/2022_CAT-RS/image.png"
     authors: "<b><u>Seojin Kim</u>*</b>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Hyeontae Song*</a>, <a href=https://jaehyun513.github.io>Jaehyun Nam</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
     venue1: "Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025 (findings)"
+    venue2: "NeurIPS Workshop on AI for New Drug Modalities (NeurIPSW-AIDrugX), 2024"
     paper_pdf: "https://alinlab.kaist.ac.kr"
     selected: y
   - title: "FontAdapter: Instant Font Adaptation in Visual Text Generation"
@@ -37,12 +38,12 @@ papers:
     venue1: "Transactions on Machine Learning Research (TMLR), 2024"
     paper_pdf: https://arxiv.org/abs/2411.08933
     selected: y
-  - title: "An Efficient Tokenization for Molecular Language Models"
-    # image: "assets/publications/2024_CAMT5/image.png"
-    authors: "<b><u>Seojin Kim</u></b>, <a href=https://jaehyun513.github.io>Jaehyun Nam</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
-    venue1: "NeurIPS Workshop on AI for New Drug Modalities (NeurIPSW-AIDrugX), 2024"
-    paper_pdf: https://openreview.net/forum?id=BDISzo0dZi&referrer=%5Bthe%20profile%20of%20Seojin%20Kim%5D(%2Fprofile%3Fid%3D~Seojin_Kim2)
-    selected: y
+  # - title: "An Efficient Tokenization for Molecular Language Models"
+  #   # image: "assets/publications/2024_CAMT5/image.png"
+  #   authors: "<b><u>Seojin Kim</u></b>, <a href=https://jaehyun513.github.io>Jaehyun Nam</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
+  #   venue1: "NeurIPS Workshop on AI for New Drug Modalities (NeurIPSW-AIDrugX), 2024"
+  #   paper_pdf: https://openreview.net/forum?id=BDISzo0dZi&referrer=%5Bthe%20profile%20of%20Seojin%20Kim%5D(%2Fprofile%3Fid%3D~Seojin_Kim2)
+  #   selected: y
   - title: "Data-Efficient Molecular Generation with Hierarchical Textual Inversion"
     # image: "assets/publications/2023_HI-Mol/image.png"
     authors: "<b><u>Seojin Kim</u></b>, <a href=https://jaehyun513.github.io>Jaehyun Nam</a>, <a href='https://sihyun.me'>Sihyun Yu</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Younghoon Shin</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
