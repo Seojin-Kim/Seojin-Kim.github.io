@@ -10,7 +10,7 @@ papers:
     authors: "<b><u>Seojin Kim</u>*</b>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Hyeontae Song*</a>, <a href=https://jaehyun513.github.io>Jaehyun Nam</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
     venue1: "Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025 (findings)"
     venue2: "NeurIPS Workshop on AI for New Drug Modalities (NeurIPSW-AIDrugX), 2024"
-    paper_pdf: "https://alinlab.kaist.ac.kr"
+    paper_pdf: "https://arxiv.org/abs/2509.04476"
     selected: y
   - title: "FontAdapter: Instant Font Adaptation in Visual Text Generation"
     # image: "/assets/publications/2022_CAT-RS/image.png"
